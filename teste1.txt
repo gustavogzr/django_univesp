@@ -1,2 +1,0 @@
-texto para abertura do GIT
-texto de commit
